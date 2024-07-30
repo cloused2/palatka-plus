@@ -1,10 +1,4 @@
 {    
     "tech_work" : "0",
-    "suicide_all" : "0",
-    "update" : "0.17",
-    "date" : "30.07.2024",
-    "news" : "Исправление багов, оптимизация скрипта",
-    "name" : "plt-Plus-v0.18.luac",
-    "delete_last" : "0",
-    "url" : "none"
+    "suicide_all" : "0"
 }
