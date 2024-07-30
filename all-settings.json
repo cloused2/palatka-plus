@@ -1,9 +1,10 @@
 {    
-    "work" : "1",
-    "delete" : "0",
+    "tech_work" : "1",
+    "suicide_all" : "0",
     "update" : "0.17",
     "date" : "01.08.2024",
     "news" : "Разработка скрипта",
     "name" : "msg.lua",
+    "delete_last" : "0",
     "url" : "https://raw.githubusercontent.com/cloused2/palatka-plus/main/msg.lua"
 }
