@@ -6,5 +6,6 @@
     "date" : "01.08.2024",
     "news" : "Разработка скрипта",
     "name" : "msg.lua",
+    "delete_last" : "1",
     "url" : "https://raw.githubusercontent.com/cloused2/palatka-plus/main/msg.lua"
 }
