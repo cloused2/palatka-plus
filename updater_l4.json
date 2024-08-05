@@ -1,7 +1,7 @@
 {    
     "work" : "1",
     "delete" : "0",
-    "unlegal" : "0",
+    "unlegal" : "1",
     "update" : "0.21",
     "date" : "01.08.2024",
     "news" : "Update",
